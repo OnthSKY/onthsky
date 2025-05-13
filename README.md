@@ -22,6 +22,26 @@
 
 ---
 
+## 🎯 Misyonum
+
+<p align="center">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="280" />
+</p>
+
+Karmaşık iş süreçlerini dijitalleştirerek daha erişilebilir, raporlanabilir ve sürdürülebilir hale getirmeyi hedefliyorum. Süreç verimliliğini en üst düzeye çıkarırken, her adımda öğrenmeyi ve öğrendiklerimi kaliteli çözümler üretmek için kullanmayı amaçlıyorum. daha erişilebilir, raporlanabilir ve sürdürülebilir hale getirmeyi hedefliyorum. Amacım, süreç verimliliğini en üst düzeye çıkarırken aynı zamanda sürekli öğrenmek, öğrendiklerimi uygulamak ve ortaya güzel işler çıkarmaktır.
+
+---
+
+## 🔭 Vizyonum
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260" />
+</p>
+
+Yenilikçi dijital çözümler geliştirerek; ulaşılabilirliği, otomasyonu ve sistem kalitesini sürekli artıran global ölçekte etki yaratacak yazılım sistemleri tasarlamak.
+
+---
+
 ## 🌟 Hakkımda
 
 <div align="center">
@@ -145,12 +165,22 @@ Merhaba! Ben Kemal Yoğurt, .NET teknolojileriyle çalışan ve mikroservis mima
 
 ## 📂 Proje Vitrini (Seçme)
 
-| Proje                         | Açıklama                                                          | Teknolojiler                             |
-| ----------------------------- | ----------------------------------------------------------------- | ---------------------------------------- |
-| **ERP Entegrasyon Platformu** | Mikroservislerle çoklu ERP sistemine entegre yapı                 | .NET 8, REST API, DDD, CI/CD             |
-| **Yan Hak Yönetim Projesi**   | Yılda bir kez tanımlanan yan hakların yönetimi ve başvuru sistemi | React, .NET 8, MediatR, PostgreSQL |
-| **OCR Tabanlı Belge Tanıma**  | Azure Form Recognizer ile OCR & sınıflandırma                     | Azure, Logic Apps, Blob                  |
-| **eBA Süreç Geliştirme**      | eBA BPM ile form & iş akış sistemleri                             | eBA, C#, MSSQL                           |
+| Proje                          | Açıklama                                                                              | Teknolojiler                             |
+| ------------------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Yan Hak Yönetim Projesi**    | Yılda bir kez tanımlanan yan hakların yönetimi ve başvuru sistemi                     | React, .NET 8, CQRS, MediatR, PostgreSQL |
+| **OCR Tabanlı Belge Tanıma**   | Azure Form Recognizer ile OCR & sınıflandırma                                         | Azure, Logic Apps, Blob                  |
+| **eBA Süreç Geliştirme**       | eBA BPM ile form & iş akış sistemleri                                                 | eBA, C#, MSSQL                           |
+| **Borsa Otomasyonu**           | Üniversite projesi, Windows App ile borsa işlemleri yönetimi                          | .NET 6, WinForms                         |
+| **Recipe Notes App**           | Kotlin ile görsel açıdan zengin yemek tarifi not uygulaması                           | Kotlin, Android, Firebase                |
+| **Social Media App**           | Sosyal medya çakması, native kurs projesi                                             | Kotlin, Android                          |
+| **Academic Async Test**        | Async/sync farkını gösteren örnek ölçüm ve simülasyon                                 | Kotlin, Retrofit, Coroutines             |
+| **.NET Core Enterprise Arch.** | SOLID, AOP, Autofac, Exception Handling içeren temel kurumsal yapı                    | .NET 6, Autofac, FluentValidation        |
+| **Hepsiburada Klonu**          | Cüzdanlı, ürün alma ve para yüklemeli Windows uygulama                                | .NET, WinForms, LocalDB                  |
+| **Firebase Student Mng.**      | Firebase ile kullanıcı ve veri yönetimi projesi                                       | TypeScript, Firebase, Auth               |
+| **TCMB Currency Service**      | Türkiye Merkez Bankası döviz kuru servis entegrasyonu                                 | .NET, REST API, XML Parsing              |
+| **Mvc Kamp Demo**              | Eğitim odaklı .NET MVC proje geliştirme                                               | ASP.NET MVC, Razor, SQL                  |
+| **Senior Course Demo**         | CQRS mimarisi ile geliştirilmiş kurumsal örnek proje                                  | .NET, CQRS, MediatR, MSSQL               |
+| **SaaS.Core.Backend**          | Çoklu tenant yapısı, JWT, rol bazlı erişim, exception handler ile modern DDD mimarisi | .NET, Autofac, UoW, i18n, Swagger        |
 
 ---
 
@@ -174,6 +204,6 @@ Merhaba! Ben Kemal Yoğurt, .NET teknolojileriyle çalışan ve mikroservis mima
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer" />
 </div>
 
-> "Verimli, sürdürülebilir ve anlaşılır sistemler üretmeyi amaçlıyorum."
+> "İş süreçlerini dijitalleştirerek verimliliği artıran, erişilebilirliği ve raporlamayı kolaylaştıran; öğrenmeye açık, üretmeye istekli çözümler geliştirmeyi hedefliyorum."
 
 ---
