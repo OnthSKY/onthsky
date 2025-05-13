@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0F172A&center=true&vCenter=true&width=800&lines=Backend+Development+with+.NET+8;Domain-Driven+Design+%26+Clean+Architecture;Azure+OCR+%2F+Blob+Integration;CI%2FCD%2C+RabbitMQ%2C+eBA+BPM+Platform" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=0AB5F9&center=true&vCenter=true&width=800&lines=Backend+Development+with+.NET+8;Domain-Driven+Design+%26+Clean+Architecture;Azure+OCR+%2F+Blob+Integration;CI%2FCD%2C+RabbitMQ%2C+eBA+BPM+Platform" />
 </div>
 
 ---
